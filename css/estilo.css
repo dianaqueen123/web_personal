@@ -1,7 +1,9 @@
-section{ color: lavenderblush;
+section{ color: rgb(83, 70, 105);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: peachpuff;height: 600px;width: 400px;
+    background-color: rgb(214, 197, 255);height: 900px;width: 1000px;
  }
  h1{
-     background-color: rgb(243, 213, 141);
+     background-color: rgb(85, 199, 252);height: 30px;width: 500px;
  }
+ h2{ background-color: rgb(85, 199, 252);width: 300px;}
+ 
